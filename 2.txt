@@ -1,0 +1,5 @@
+git checkout -b ---- navigate between the branches created by git branch 
+git commit -m ---captures a snapshot of the staged changes in your project.
+git add <filenames> ---- add the changed files q
+git remote -v ---- to add, change and delete them.
+
